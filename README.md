@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceydaelk
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ceydaelk@gmail.com 
 
