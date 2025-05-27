@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @ceydaelk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ceydaelk@gmail.com 
+##  About Me
+💚 Currently learninr React Native. <br />
+
+## Socials
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://linkedin.com/in/ceydae-elik) 
 
 
-<!---
-ceydaelk/ceydaelk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
